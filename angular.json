@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-cursera-spa-one"
+    }
+  },
+  "defaultProject": "app-cursera-spa-one",
+  "cli": {
+    "analytics": false
+  }
 }

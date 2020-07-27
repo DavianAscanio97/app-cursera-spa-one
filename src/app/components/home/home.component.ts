@@ -23,5 +23,8 @@ export class HomeComponent implements OnInit {
 
     return false;
   }
+  procesaPropagar(mensaje) {
+    alert(mensaje);
+  }
 
 }
